@@ -1,0 +1,33 @@
+body{
+  margin:0;
+  padding:200px;
+  box-sizing: border-box;
+  text-align: center;
+  background-image: Linear-gradient(to right, rgb(0, 48, 205), rgb(63,198,15));
+}
+
+#myButton{
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: rgb(0, 48, 205);
+  margin-right: 10px;
+  color:aliceblue;
+  
+}
+
+#myButton2{
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: rgb(63,198,15);
+  color:black;
+}
+h2{
+  font-size: small;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+.copycode{
+  color: aliceblue;
+}
